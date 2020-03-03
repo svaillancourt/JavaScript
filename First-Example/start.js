@@ -139,3 +139,19 @@ for (var i = 0; i < fruits.length; i++){       // prints out the list of items i
 }
 console.log(computerStuff);
 console.log(fruits);
+
+
+printFunction();
+printFunction();
+printFunction();
+printFunction();
+printFunction();
+printFunction();
+
+function printFunction(){
+    console.log("goodbye");
+}
+
+function printFunction(){
+    console.log("hello");
+}
